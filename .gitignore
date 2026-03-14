@@ -1,0 +1,7 @@
+*.csv
+__pycache__/
+*.whl
+.vsc/
+.env
+.ipynb_checkpoints/
+mlruns/
